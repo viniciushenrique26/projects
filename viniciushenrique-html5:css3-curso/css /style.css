@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+.btn {
+  transition: 0.1s ease;
+  background-color: #0d0ad4;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 500;
+  width: 80%;
+  position: absolute;
+  left: 30px;
+  height: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+}
+.img-main {
+  margin: 1px;
+  padding: 10px;
+  margin-left: 10px;
+  left: -4%;
+  top: -9%;
+  position: fixed;
+  height: 28%;
+}
+.second-title {
+  font-family: sans-serif;
+  font-size: 50px;
+  margin-bottom: 60px;
+  margin-top: 10px;
+}
+.btns-main {
+  align-items: center;
+  border: 20px solid transparent;
+  padding: 10px;
+}
+.sub-content {
+  position: absolute;
+  top: 25%;
+  left: 33%;
+}
+.buttons-material {
+  position: relative;
+  padding: 100px;
+  align-items: center;
+}
+.prg-main {
+  position: relative;
+  top: 25%;
+  left: 8%;
+}
+
+.wellcome {
+  margin: 1px;
+  position: fixed;
+  top: -11%;
+  left: 35%;
+  border: 1px solid transparent;
+  padding: 1%;
+}
+.material {
+  border: 10px solid white;
+  background-color: white;
+  padding: 10px;
+  position: fixed;
+  right: 42%;
+  top: 35%;
+}
+.btn-conteudo {
+  left: 10%;
+  bottom: 100%;
+}
+.btn-video {
+  left: 10%;
+  bottom: 70%;
+}
+body {
+  background-color: white;
+  text-align: center;
+}

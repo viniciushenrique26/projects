@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+
+.conteudo {
+  align-items: center;
+  position: absolute;
+  margin-top: 13%;
+}
+h1 {
+  font-size: 30px;
+  border: 12px solid lightblue;
+  border-radius: 12px;
+  height: 15%;
+  width: auto;
+  background-color: lightblue;
+  padding-left: 40%;
+}
+.videos_iniciante_logo {
+  position: absolute;
+  margin-top: -10%;
+  margin-bottom: 1px;
+  margin-left: 30%;
+  border: 1px solid transparent;
+  padding: 1%;
+}
+.img-main {
+  margin: 1px;
+  padding: 10px;
+  margin-left: 10px;
+  left: -4%;
+  top: -9%;
+  position: absolute;
+  height: 28%;
+}
+p {
+  font-size: 20px;
+  margin: 1px;
+  margin-left: 25%;
+}
+
+iframe {
+  margin: 10px;
+  margin-left: 30%;
+}
+
+h2 {
+  margin-left: 42%;
+}

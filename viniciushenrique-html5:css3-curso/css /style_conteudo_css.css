@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap');
+
+.conteudo {
+  align-items: center;
+  position: absolute;
+  margin-top: 13%;
+}
+
+h1 {
+  font-size: 30px;
+  border: 12px solid lightblue;
+  border-radius: 12px;
+  height: 15%;
+  width: auto;
+  background-color: lightblue;
+  padding-left: 40%;
+}
+#btn-css {
+  position: absolute;
+  margin-top: 60%;
+  padding: 1px;
+}
+p {
+  font-size: 20px;
+}
+
+btn {
+  transition: 0.1s ease;
+  background-color: #0d0ad4;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 500;
+  width: 80%;
+  position: absolute;
+  left: 30px;
+  height: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+}
+.img-main {
+  margin: 1px;
+  padding: 10px;
+  margin-left: 10px;
+  left: -4%;
+  top: -9%;
+  position: absolute;
+  height: 28%;
+}
+.css_iniciante_logo {
+  position: absolute;
+  margin-top: -10%;
+  margin-bottom: 1px;
+  margin-left: 30%;
+  border: 1px solid transparent;
+  padding: 1%;
+}
